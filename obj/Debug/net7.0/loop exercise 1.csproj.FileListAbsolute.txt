@@ -1,0 +1,15 @@
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/bin/Debug/net7.0/loop exercise 1
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/bin/Debug/net7.0/loop exercise 1.deps.json
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/bin/Debug/net7.0/loop exercise 1.runtimeconfig.json
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/bin/Debug/net7.0/loop exercise 1.dll
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/bin/Debug/net7.0/loop exercise 1.pdb
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/loop exercise 1.csproj.AssemblyReference.cache
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/loop exercise 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/loop exercise 1.AssemblyInfoInputs.cache
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/loop exercise 1.AssemblyInfo.cs
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/loop exercise 1.csproj.CoreCompileInputs.cache
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/loop exercise 1.dll
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/refint/loop exercise 1.dll
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/loop exercise 1.pdb
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/loop exercise 1.genruntimeconfig.cache
+/Users/michaeldriscoll/Desktop/repos/loop exercise 1/loop exercise 1/obj/Debug/net7.0/ref/loop exercise 1.dll
